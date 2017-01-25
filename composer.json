@@ -1,5 +1,5 @@
 {
-    "name": "ht7/ht7-starting-point",
+    "name": "ht7/ht7_starting_point",
     "type": "concrete5-package",
     "require": {
         "php": ">=5.3.3",
